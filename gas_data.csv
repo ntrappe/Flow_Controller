@@ -1,0 +1,79 @@
+﻿Gas Name,Symbol,Molecular Structure,Correction Factor,Specific Heat,Density
+Air,Air,monoatomic,1.03,0.24,1.293
+Ammonia,NH3,polyatomic,0.88,0.492,0.76
+Argon,Ar,monoatomic,1.03,0.1244,1.782
+Arsine,AsH3,polyatomic,0.88,0.1167,3.478
+Boron Trichloride,BCl3,polyatomic,0.88,0.1279,5.227
+Bromine,Br2,diatomic,1,0.0539,7.13
+Carbon Dioxide,CO2,triatomic,0.941,0.2016,1.964
+Carbon Monoxide,CO,diatomic,1,0.2488,1.25
+Carbon Tetrachloride,CCl4,polyatomic,0.88,0.1655,6.86
+Carbon Tetraflouride (Freon - 14),CF4,polyatomic,0.88,0.1654,3.926
+Chlorine,Cl2,diatomic,1,0.1144,3.163
+Chlorodifluoromethane (Freon - 22),CHClF2,polyatomic,0.88,0.1544,3.858
+Chloropentafluoroethane (Freon - 115),C2ClF5,polyatomic,0.88,0.164,6.892
+Chlorotrifluoromethane (Freon - 13),CClF3,polyatomic,0.88,0.153,4.66
+Cyanogen,C2N2,polyatomic,0.88,0.2613,2.322
+Deuterium,D2,diatomic,1,1.722,0.1799
+Diborane,B2H6,polyatomic,0.88,0.508,1.235
+Dibromodifluoromethane,CBr2F2,polyatomic,0.88,0.15,9.362
+Dichlorodifluoromethane (Freon - 12),CCl2F2,polyatomic,0.88,0.1432,5.395
+Dichlorofluoromethane (Freon - 21),CHCl2F,polyatomic,0.88,0.14,4.592
+Dichloromethysilane,(CH3)2SiCl2,polyatomic,0.88,0.1882,5.758
+Dichlorosilane,SiH2Cl2,polyatomic,0.88,0.15,4.506
+"1,2-Dichlorotetrafluoroethane (Freon - 114)",C2Cl2F4,polyatomic,0.88,0.16,7.626
+"1,1-Difluoroethylene (Freon - 1132A)",C2H2F2,polyatomic,0.88,0.224,2.857
+"2,2-Dimethylpropane",C5H12,polyatomic,0.88,0.3914,3.219
+Ethane,C2H6,polyatomic,0.88,0.4097,1.342
+Fluorine,F2,diatomic,1,0.1873,1.695
+Fluoroform (Freon - 23),CHF3,polyatomic,0.88,0.176,3.127
+Freon - 11,CCl3F,polyatomic,0.88,0.1357,6.129
+Freon - 12,CCl2F2,polyatomic,0.88,0.1432,5.395
+Freon - 13,CClF3,polyatomic,0.88,0.153,4.66
+Freon - 13 B1,CBrF3,polyatomic,0.88,0.1113,6.644
+Freon - 14,CF4,polyatomic,0.88,0.1654,3.926
+Freon - 21,CHCl2F,polyatomic,0.88,0.14,4.592
+Freon - 22,CHClF2,polyatomic,0.88,0.1544,3.858
+Freon - 23,CHF3,polyatomic,0.88,0.176,3.127
+Freon - 113,C2Cl2F3,polyatomic,0.88,0.161,8.36
+Freon - 114,C2Cl2F4,polyatomic,0.88,0.16,7.626
+Freon - 115,C2ClF5,polyatomic,0.88,0.164,6.892
+Freon - 116,C2F6,polyatomic,0.88,0.1843,6.157
+Freon - C318,C4F8,polyatomic,0.88,0.1866,8.93
+Freon - 1132A,C2H2F2,polyatomic,0.88,0.224,2.857
+Helium,He,monoatomic,1.03,1.241,0.1786
+Hexafluoroethane (Freon - 116),C2F6,polyatomic,0.88,0.1843,6.157
+Hydrogen,H2,diatomic,1,3.419,0.0899
+Hydrogen Bromide,HBr,diatomic,1,0.0861,3.61
+Hydrogen Chloride,HCl,diatomic,1,0.1912,1.627
+Hydrogen Fluoride,HF,diatomic,1,0.3479,0.893
+Isobutylene,C4H8,polyatomic,0.88,0.3701,2.503
+Krypton,Kr,monoatomic,1.03,0.0593,3.739
+Methane,CH4,polyatomic,0.88,0.5328,0.715
+Methyl Fluoride,CH3F,polyatomic,0.88,0.3221,1.518
+Molybdenum Hexafluoride,MoF6,polyatomic,0.88,0.1373,9.366
+Neon,Ne,monoatomic,1.03,0.246,0.9
+Nitric Oxide,NO,diatomic,1,0.2328,1.339
+Nitrogen,N2,diatomic,1,0.2485,1.25
+Nitrogen Dioxide,NO2,triatomic,0.941,0.1933,2.052
+Nitrogen Trifluoride,NF3,polyatomic,0.88,0.1797,3.168
+Nitrous Oxide,N2O,triatomic,0.941,0.2088,1.964
+Octafluorocyclobutane (Freon - C318),C4F8,polyatomic,0.88,0.1866,8.93
+Oxygen,O2,diatomic,1,0.2193,1.427
+Pentane,C5H12,polyatomic,0.88,0.398,3.219
+Perfluoropropane,C3F8,polyatomic,0.88,0.194,8.388
+Phosgene,COCl2,polyatomic,0.88,0.1394,4.418
+Phosphine,PH3,polyatomic,0.88,0.2374,1.517
+Propane,C3H8,polyatomic,0.88,0.3885,1.967
+Propylene,C3H6,polyatomic,0.88,0.3541,1.877
+Silane,SiH4,polyatomic,0.88,0.3189,1.433
+Silicon Tetrachloride,SiCl4,polyatomic,0.88,0.127,7.58
+Silicon Tetrafluoride,SiF4,polyatomic,0.88,0.1691,4.643
+Sulfur Dioxide,SO2,triatomic,0.941,0.1488,2.858
+Sulfur Hexafluoride,SF6,polyatomic,0.88,0.1592,6.516
+Trichlorofluoromethane (Freon - 11),CCl3F,polyatomic,0.88,0.1357,6.129
+Trichlorosilane,SiHCl3,polyatomic,0.88,0.138,6.043
+Trichloroethane,CCl2FCClF2,polyatomic,0.88,0.161,8.36
+Trifluoroethane (Freon - 113),C2Cl3F3,polyatomic,0.88,0.161,8.36
+Tungsten Hexafluoride,WF6,polyatomic,0.88,0.081,13.28
+Xenon,Xe,monoatomic,1.03,0.0378,5.858
